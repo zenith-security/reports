@@ -23,10 +23,10 @@
 | 19  | Gondi                                    |                  |              |
 | 20  | Ramses Consulting                        |                  |              |
 | 21  | Ulti                                     |                  |              |
-| 22  | NameSpace                                |                  |              |
+| 22  | [NameSpace - ENS Identity]()             |                  |              |
 | 23  | PoolTogether                             |                  |              |
-| 24  | Amplified                                |                  |              |
-| 25  | [Nibiru - L1]()                              |  Cosmos/Golang   |              |
+| 24  | [Amplified - restaking]()                |                  |              |
+| 25  | [Nibiru - L1]()                          |  Cosmos/Golang   |              |
 | 26  | Jupiter - MM                             |   Solana/Rust    |              |
 | 27  | Jupiter - RFQ                            |   Solana/Rust    |              |
 | 28  | Jupiter - Smart Accounts                 |   Solana/Rust    |              |
@@ -40,7 +40,7 @@
 | 35  | [Bubblemaps - vesting/airdrop]()         |   Solana/Rust    |              |
 | 36  | [Kakarot - zkEVM]()                      |  Starknet/Cairo  |              |
 | 37  | Traitforge                               |   EVM/Solidity   |              |
-| 38  | Ramses                                   |                  |              |
+| 38  | [Ramses - automated market maker]()      |                  |              |
 | 39  | [Ethena - stablecoin]()                  |                  |              |
 | 40  | [Moxie - referral awards]()              |                  |              |
 | 41  | [Saga - L1]()                            |  Cosmos/Golang   |              |
@@ -48,7 +48,7 @@
 | 43  | SSI Protocol                             |                  |              |
 | 44  | [Autonomous Finance  - Solana Staking]() |   Solana/Rust    |              |
 | 45  | [Print World -  bonding curve market]()  |   Solana/Rust    |              |
-| 46  | Solera                                   |   EVM/Solidity   |              |
+| 46  | [Solera - AAVE fork]()                   |   EVM/Solidity   |              |
 | 47  | Pie.fun -                                |                  |              |
 | 48  | [Shogun - Telegram Bot]()                | InfraTypescript  |              |
 | 49  | Diambra                                  |                  |              |
@@ -58,8 +58,8 @@
 | 53  | Gondi                                    |                  |              |
 | 54  | [Ebisu - liquity v2 fork]()              |                  |              |
 | 55  | Bitmind                                  |                  |              |
-| 56  | [GMX - Decentralized Perps Exchange]()   |   Solana/Rust    | January 2024 |
+| 56  | [GMX - decentralized perps exchange]()   |   Solana/Rust    | January 2024 |
 | 57  | [Nibiru - L1]()                          |  Cosmos/Golang   | January 2024 |
-| 58  | Echelon                                  |                  |              |
-| 59  | Sofa                                     |                  |              |
+| 58  | [Echelon - lending market]               |    Aptos/Move    |              |
+| 59  | Sofa V2                                  |                  |              |
 | 60  | Fractality                               |                  |              |
