@@ -5,7 +5,7 @@
 | 1   | [Album - NFT Fundraise]()                |   EVM/Solidity   |              |
 | 2   | Sofa                                     |   EVM/Solidity   |              |
 | 3   | Agent                                    |   EVM/Solidity   |              |
-| 4   | Karak                                    |                  |              |
+| 4   | [Karak - Restaking]()                    |                  |              |
 | 5   | Strateg                                  |                  |              |
 | 6   | Tornado Blast                            |                  |              |
 | 7   | Tornado Blast - Rocket Launcher          |                  |              |
@@ -50,16 +50,16 @@
 | 45  | [Print World -  bonding curve market]()  |   Solana/Rust    |              |
 | 46  | [Solera - AAVE fork]()                   |   EVM/Solidity   |              |
 | 47  | Pie.fun -                                |                  |              |
-| 48  | [Shogun - Telegram Bot]()                | InfraTypescript  |              |
-| 49  | Diambra                                  |                  |              |
-| 50  | MyShell                                  |                  |              |
-| 51  | The Farm                                 |   EVM/Solidity   |              |
-| 52  | [Virtuals - AI Agents]()                 |                  |              |
-| 53  | Gondi                                    |                  |              |
-| 54  | [Ebisu - liquity v2 fork]()              |                  |              |
-| 55  | Bitmind                                  |                  |              |
-| 56  | [GMX - decentralized perps exchange]()   |   Solana/Rust    | January 2024 |
-| 57  | [Nibiru - L1]()                          |  Cosmos/Golang   | January 2024 |
+| 48  | [Shogun - Telegram Bot]                  | InfraTypescript  |              |
+| 49  | [Diambra - AI Agents]                    |   EVM/Solidity   | January 2024 |
+| 50  | [MyShell - AI consumer layer]            |   EVM/Solidity   | January 2024 |
+| 51  | [The Farm - AI Agents]                   |   EVM/Solidity   | January 2024 |
+| 52  | [Virtuals - AI Agents]                   |                  |              |
+| 53  | Gondi                                    |   EVM/Solidity   | January 2024 |
+| 54  | [Ebisu - liquity v2 fork]                |                  |              |
+| 55  | [Bitmind - Staking]                      |   EVM/Solidity   | January 2024 |
+| 56  | [GMX - decentralized perps exchange]     |   Solana/Rust    | January 2024 |
+| 57  | [Nibiru - L1]                            |  Cosmos/Golang   | January 2024 |
 | 58  | [Echelon - lending market]               |    Aptos/Move    |              |
 | 59  | Sofa V2                                  |                  |              |
-| 60  | Fractality                               |                  |              |
+| 60  | [Fractality - Token Migrator]                               |                  |              |
