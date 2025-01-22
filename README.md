@@ -12,12 +12,12 @@
 | 8   | Moxie                                    |                  |              |
 | 9   | Moxie                                    |                  |              |
 | 10  | Playfi                                   |                  |              |
-| 11  | Gemnify                                  |                  |              |
+| 11  | [Gemnify - GMX fork]()                   |                  |              |
 | 12  | Moxie                                    |                  |              |
 | 13  | [Celo - L1]()                            | Rollups/Solidity |              |
 | 14  | Fractality                               |                  |              |
 | 15  | XDEFI                                    |                  |              |
-| 16  | [LIQ Markets - GMX Fork]()               |                  |              |
+| 16  | [LIQ Markets - GMX fork]()               |                  |              |
 | 17  | Thrackle                                 |                  |              |
 | 18  | Legion EVM                               |                  |              |
 | 19  | Gondi                                    |                  |              |
