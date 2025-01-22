@@ -49,7 +49,7 @@
 | 44  | Autonomous Finance  - Solana Staking |   Solana/Rust    |              |
 | 45  | Print World -  bonding curve market  |   Solana/Rust    |              |
 | 46  | Solera - AAVE fork                   |   EVM/Solidity   |              |
-| 47  | Pie.fun -                            |                  |              |
+| 47  | Pie.fun - asset baskets              |                  |              |
 | 48  | Shogun - Telegram Bot                | InfraTypescript  |              |
 | 49  | Diambra - AI Agents                  |   EVM/Solidity   | January 2024 |
 | 50  | MyShell - AI consumer layer          |   EVM/Solidity   | January 2024 |
