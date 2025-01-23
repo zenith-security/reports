@@ -51,15 +51,17 @@
 | 47  | Solera - AAVE fork                   |   EVM/Solidity   | December 2024 |
 | 48  | Pie.fun - asset baskets              |                  | December 2024 |
 | 49  | Shogun - Telegram Bot                | InfraTypescript  | December 2024 |
-| 50  | Diambra - AI Agents                  |   EVM/Solidity   | January 2025 |
-| 51  | MyShell - AI consumer layer          |   EVM/Solidity   | January 2025 |
-| 52  | The Farm - AI Agents                 |   EVM/Solidity   | January 2025 |
-| 53  | Virtuals - AI Agents                 |                  | January 2025 |
-| 54  | Gondi                                |   EVM/Solidity   | January 2025 |
-| 55  | Ebisu - liquity v2 fork              |                  | January 2025 |
-| 56  | Bitmind - Staking                    |   EVM/Solidity   | January 2025 |
-| 57  | GMX - decentralized perps exchange   |   Solana/Rust    | January 2025 |
-| 58  | Nibiru - L1                          |  Cosmos/Golang   | January 2025 |
-| 59  | Echelon - lending market             |    Aptos/Move    | January 2025 |
-| 60  | Sofa V2                              |                  | January 2025 |
+| 50  | Continuum                            |                  | December 2024 |
+| 51  | Chainlink                            |                  | January 2025 |
+| 52  | Diambra - AI Agents                  |   EVM/Solidity   | January 2025 |
+| 53  | MyShell - AI consumer layer          |   EVM/Solidity   | January 2025 |
+| 54  | The Farm - AI Agents                 |   EVM/Solidity   | January 2025 |
+| 55  | Virtuals - AI Agents                 |                  | January 2025 |
+| 56  | Gondi                                |   EVM/Solidity   | January 2025 |
+| 57  | Ebisu - liquity v2 fork              |                  | January 2025 |
+| 58  | Bitmind - Staking                    |   EVM/Solidity   | January 2025 |
+| 59  | GMX - decentralized perps exchange   |   Solana/Rust    | January 2025 |
+| 60  | Nibiru - L1                          |  Cosmos/Golang   | January 2025 |
+| 61  | Echelon - lending market             |    Aptos/Move    | January 2025 |
+| 62  | Sofa V2                              |                  | January 2025 |
 | 61  | Y2K - Token Migrator                 |                  | January 2025 |
