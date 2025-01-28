@@ -64,4 +64,4 @@
 | 60  | Nibiru - L1                          |  Cosmos/Golang   | January 2025 |
 | 61  | Echelon - lending market             |    Aptos/Move    | January 2025 |
 | 62  | Sofa V2                              |                  | January 2025 |
-| 61  | Y2K - Token Migrator                 |                  | January 2025 |
+| 61  | Fractality - Token Migrator                 |    EVM/Solidity              | January 2025 |
