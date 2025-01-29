@@ -71,3 +71,4 @@
 | 65  | C                                    |   EVM/Solidity   | February 2025  |
 | 66  | P                                    |   EVM/Solidity   | February 2025  |
 | 67  | B                                    |   EVM/Solidity   | February 2025  |
+| 68  | P                                    |   Solana/Rust    | February 2025  |
