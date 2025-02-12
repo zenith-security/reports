@@ -72,3 +72,10 @@
 | 66  | P                                    |   EVM/Solidity   | February 2025  |
 | 67  | B                                    |   EVM/Solidity   | February 2025  |
 | 68  | P                                    |   Solana/Rust    | February 2025  |
+| 69  | H                                    |   EVM/Solidity   | February 2025  |
+| 69  | H                                    |   Solana/Rust    | February 2025  |
+| 70  | H                                    |   EVM/Solidity   | February 2025  |
+| 71  | S                                    |   EVM/Solidity   | February 2025  |
+| 72  | Y                                    |   EVM/Solidity   | February 2025  |
+| 73  | S                                    |   EVM/Solidity   | February 2025  |
+| 74  | D                                    |   EVM/Solidity   | February 2025  |
