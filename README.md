@@ -79,3 +79,7 @@
 | 72  | Yala                                 |   EVM/Solidity   | February 2025  |
 | 73  | Satoshi Protocol                     |   EVM/Solidity   | February 2025  |
 | 74  | Dinero                               |   EVM/Solidity   | February 2025  |
+| 75  | G                                    |   EVM/Solidity   | February 2025  |
+| 76  | P                                    |   EVM/Solidity   | February 2025  |
+| 77  | S                                    |   EVM/Solidity   | February 2025  |
+| 78  | L                                    |   EVM/Solidity   | February 2025  |
