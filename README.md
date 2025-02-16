@@ -68,14 +68,14 @@
 | 62  | Gondi                                |   EVM/Solidity   | January 2025   |
 | 63  | Berachain                            |   EVM/Solidity   | January 2025   |
 | 64  | Infrared                             |   EVM/Solidity   | January 2025   |
-| 65  | C                                    |   EVM/Solidity   | February 2025  |
-| 66  | P                                    |   EVM/Solidity   | February 2025  |
-| 67  | B                                    |   EVM/Solidity   | February 2025  |
-| 68  | P                                    |   Solana/Rust    | February 2025  |
-| 69  | H                                    |   EVM/Solidity   | February 2025  |
-| 69  | H                                    |   Solana/Rust    | February 2025  |
-| 70  | H                                    |   EVM/Solidity   | February 2025  |
-| 71  | S                                    |   EVM/Solidity   | February 2025  |
-| 72  | Y                                    |   EVM/Solidity   | February 2025  |
-| 73  | S                                    |   EVM/Solidity   | February 2025  |
-| 74  | D                                    |   EVM/Solidity   | February 2025  |
+| 65  | Citrex                               |   EVM/Solidity   | February 2025  |
+| 66  | Parallel                             |   EVM/Solidity   | February 2025  |
+| 67  | Biconomy                             |   EVM/Solidity   | February 2025  |
+| 68  | Paladin                              |   Solana/Rust    | February 2025  |
+| 69  | HoneyJar                             |   EVM/Solidity   | February 2025  |
+| 69  | Hologram                             |   Solana/Rust    | February 2025  |
+| 70  | Holograph                            |   EVM/Solidity   | February 2025  |
+| 71  | Stream Protocol                      |   EVM/Solidity   | February 2025  |
+| 72  | Yala                                 |   EVM/Solidity   | February 2025  |
+| 73  | Satoshi Protocol                     |   EVM/Solidity   | February 2025  |
+| 74  | Dinero                               |   EVM/Solidity   | February 2025  |
