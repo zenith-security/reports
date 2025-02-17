@@ -83,3 +83,4 @@
 | 76  | P                                    |   EVM/Solidity   | February 2025  |
 | 77  | S                                    |   EVM/Solidity   | February 2025  |
 | 78  | L                                    |   EVM/Solidity   | February 2025  |
+| 79  | Y                                    |   EVM/Solidity   | February 2025  |
