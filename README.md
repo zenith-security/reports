@@ -79,11 +79,10 @@
 | 72  | Yala                                 |   EVM/Solidity   | February 2025  |
 | 73  | Satoshi Protocol                     |   EVM/Solidity   | February 2025  |
 | 74  | Dinero                               |   EVM/Solidity   | February 2025  |
-| 75  | G                                    |   EVM/Solidity   | February 2025  |
-| 76  | P                                    |   EVM/Solidity   | February 2025  |
-| 77  | S                                    |   EVM/Solidity   | February 2025  |
-| 78  | L                                    |   EVM/Solidity   | February 2025  |
-| 79  | Y                                    |   EVM/Solidity   | February 2025  |
-| 80  | M                                    |   EVM/Solidity   | February 2025  |
-| 81  | I                                    |   EVM/Solidity   | February 2025  |
-| 82  | P                                    |   EVM/Solidity   | February 2025  |
+| 75  | Gondi                                |   EVM/Solidity   | February 2025  |
+| 76  | PoolTogether                         |   EVM/Solidity   | February 2025  |
+| 77  | Spectral                             |   EVM/Solidity   | February 2025  |
+| 78  | Legion                               |   EVM/Solidity   | February 2025  |
+| 79  | Moxie                                |   EVM/Solidity   | February 2025  |
+| 80  | IQ AI                                |   EVM/Solidity   | February 2025  |
+| 81  | PartyDAO                             |   EVM/Solidity   | February 2025  |
