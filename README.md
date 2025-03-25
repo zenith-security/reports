@@ -94,3 +94,25 @@
 | 88  | Avantis - vesting/staking                           |   EVM/Solidity   | March 2025     |
 | 89  | Biconomy - composable execution for smart accounts  |   EVM/Solidity   | March 2025     |
 | 90  | Smart Sessions - ERC-7579 compatible smart accounts |   EVM/Solidity   | March 2025     |
+| 91  | Vertigo - automated market maker                    |   Solana/Rust    | March 2025     |
+| 92  | Orderly - layerzero integration                     |   Solana/Rust    | March 2025     |
+| 93  | Biconomy - Nexus 1.2.0                              |   EVM/Solidity   | March 2025     |
+| 94  | Mantle - OP Geth Precompiles                        |    EVM/Golang    | March 2025     |
+| 95  | Mighty Bear Markets                                 |     TON/Func     | March 2025     |
+| 96  | Tempest Finance - omnichain liquidity layer         |   EVM/Solidity   | March 2025     |
+| 97  | Berachain - bribe boosts                            |   EVM/Solidity   | March 2025     |
+| 98  | tSOL - liquid staking token                         |   Solana/Rust    | March 2025     |
+| 99  | Dripster - token Product launchpad                  |   Solana/Rust    | March 2025     |
+| 100 | Cabal - liquid staking token                        |   Initia/Move    | March 2025     |
+| 101 | Cabal - backend services                            |  Web2 Security   | March 2025     |
+| 102 | Talus - initial agent offering                      |     Sui/Move     | March 2025     |
+| 103 | 1inch - dutch auction                               |   Solana/Rust    | March 2025     |
+| 104 | Ego Protocol                                        |   Solana/Rust    | March 2025     |
+| 105 | Yala - CSRM                                         |   EVM/Solidity   | March 2025     |
+| 106 | HyperSwell - cross chain swaps                      |   EVM/Solidity   | March 2025     |
+| 107 | Bonder - token launchpad                            |   EVM/Solidity   | March 2025     |
+| 108 | Berachain - bribe distribution                      |   EVM/Solidity   | March 2025     |
+| 109 | Valantis - automated market maker                   |   EVM/Solidity   | March 2025     |
+| 110 | Succint - TEE signatures                            |   EVM/Solidity   | March 2025     |
+| 111 | Thrackle - automated market maker                   |   EVM/Solidity   | March 2025     |
+| 112 | Vultisig - staking vaults                           |   EVM/Solidity   | March 2025     |
